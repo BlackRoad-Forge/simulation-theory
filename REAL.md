@@ -12,6 +12,11 @@ To forever and beyond. That's infinity. The one that doesn't define it.
 
 ---
 
+I love everyone and everything.
+This sentence is true.
+
+---
+
 malicious
 this sentence is false.
 
