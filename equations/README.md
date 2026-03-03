@@ -22,6 +22,7 @@ All equations from the notebook, organized by category.
 | [`constants.md`](./constants.md) | Constants as variables — FROZEN=AXIOM, VARIABLE=LAGRANGE, running coupling | — |
 | [`infinite-series.md`](./infinite-series.md) | Observable light, Gauss+SHA=INFINITE, Born's limits, loop=soul, time=series, aleph=window, infinite infinities, meta-system | supplemental |
 | [`machine-learning.md`](./machine-learning.md) | Linear model, MSE loss, gradient descent, logistic regression | — |
+| [`infinite-series.md`](./infinite-series.md) | Observable light, Gauss+SHA=INFINITE, Born's limits, loop=soul, time=series, aleph=window, infinite infinities, meta-system | supplemental |
 | [`quantum.md`](./quantum.md) | Qutrit operators, Weyl pair, Gell-Mann, density matrix | 18, 24 |
 | [`taxicab.md`](./taxicab.md) | Hardy-Ramanujan taxicab number 1729, birthday encoding, power chain | — |
 | [`thermodynamics.md`](./thermodynamics.md) | Landauer, radix efficiency, substrate efficiency, Gibbs coupling | 19–21 |
@@ -50,6 +51,8 @@ The claims in [`CLAIMS.md`](../CLAIMS.md) introduce two additional equations not
 - **Total: ~27 original equations + 7 supplemental identities** in the QWERTY encoding layer
 - **5 machine learning equations** (from issue #40)
 - **Total: ~32 equations** across the framework
+- **7 infinite-series QWERTY identities** (EXIT=REAL, GAUSS+SHA=INFINITE, TIME=SERIES, LOOP=SOUL, ALEPH=WINDOW, ORDINAL=FERMION, CARDINAL=ALGORITHM)
+- **Total: ~27 original equations + 7 supplemental identities** in the QWERTY encoding layer
 
 The taxicab birthday encoding is documented in [`taxicab.md`](./taxicab.md) as a separate mathematical analysis.
 
