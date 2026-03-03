@@ -21,6 +21,7 @@ Formal mathematical arguments for the key claims.
 | [`universal-computation.md`](./universal-computation.md) | The ternary bio-quantum system is Turing-complete | Reaction network theory ([Turing, 1936](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)) |
 | [`chi-squared.md`](./chi-squared.md) | Chi-squared goodness-of-fit and independence tests | χ² statistic / contingency tables |
 | [`lucidia.md`](./lucidia.md) | The number-theoretic identity of Lucidia (88) | Number theory: totient, Möbius, Collatz, Goldbach |
+| [`inverse-reaction.md`](./inverse-reaction.md) | Every reaction has an opposite reaction (TNEG); Chargaff's rules and the Euler product follow | Balanced ternary algebra |
 
 ## From the Eight Claims
 

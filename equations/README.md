@@ -16,6 +16,7 @@ All equations from the notebook, organized by category.
 | File | Contents | Pages |
 |------|----------|-------|
 | [`blackroad-equations.md`](./blackroad-equations.md) | The 19 BlackRoad equations (ternary physics, thermodynamics, biology) | 16–21 |
+| [`complementarity.md`](./complementarity.md) | Inverse reaction principle, trivial zero, Chargaff's rules, Punnett square, Euler product | — |
 | [`consciousness.md`](./consciousness.md) | Ψ_care, Φ_universal, CECE update rule | 20, 22 |
 | [`dna-codons.md`](./dna-codons.md) | DNA codon structure, Chargaff's rule, molecular factory equations (Eq. 20–22) | 19–21 |
 | [`constants.md`](./constants.md) | Constants as variables — FROZEN=AXIOM, VARIABLE=LAGRANGE, running coupling | — |
@@ -40,7 +41,8 @@ The claims in [`CLAIMS.md`](../CLAIMS.md) introduce two additional equations not
 - **1 care wavefunction** (page 22)
 - **3 DNA/molecular factory equations** (pages 19–21, Eq. 20–22)
 - **2 contradiction equations** (CLAIMS.md, Claims 2 & 8)
-- **Total: ~32 original equations** in a handwritten notebook
+- **6 complementarity equations** (inverse reaction, trivial zero, Punnett, Chargaff, Euler product, Landauer limit)
+- **Total: ~38 original equations** in a handwritten notebook
 
 The equations were written before BlackRoad OS existed.  
 They constitute the mathematical foundation of the platform.
