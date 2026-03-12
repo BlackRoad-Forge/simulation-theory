@@ -18716,3 +18716,11 @@ This is not circular. By analogy with Noether's theorem, one can say: the invari
 >>>>>>> origin/copilot/enhance-blackroad-canon
 =======
 >>>>>>> origin/claude/translate-issue-comments-PlJqV
+
+## Related Projects
+
+| Project | Description |
+|---------|-------------|
+| [Universal Computer](https://github.com/blackboxprogramming/universal-computer) | Turing machine simulator |
+| [Quantum Math Lab](https://github.com/blackboxprogramming/quantum-math-lab) | Mathematical computation toolkit |
+| [RoadC](https://github.com/blackboxprogramming/roadc) | Custom programming language |
