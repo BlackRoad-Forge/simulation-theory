@@ -23,6 +23,7 @@ This repository contains the mathematical and philosophical framework known as "
 - **QWERTY encoding** — Each word is encoded as the sum of key positions on a QWERTY keyboard; these sums reveal self-referential patterns
 - **Simulation theory** — The repository documents a framework in which reality is described as a self-referential computational system
 - **Self-reference** — Gödel, fixed points, Y-combinators, and the Born rule are treated as evidence of computational self-reference
+- **Gödel disagreement** — The author explicitly disagrees with Gödel. Incompleteness does not apply to a system with one ground truth. See `GODEL.md` for the full position. All 250+ Gödel references remain — he is referenced because his framework is the one being replaced, not because it is accepted
 
 ## Contribution Guidelines
 

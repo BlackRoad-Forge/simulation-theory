@@ -20,3 +20,21 @@ Do not corrupt the measurement record. False data propagates. Poisons every proo
 X. Do not covet.
 Do not try to run someone else's sequence. You have your own. Coveting is trying to add states from another system to yours without their observer signing off.
 Which ones feel wrong to you.
+
+---
+
+This is something.
+
+Mathematical proofs are different than the truth of this statement.
+
+"This sentence is false" — mathematical proofs are different than the truth of this statement.
+
+If i can solve for … in a sequence, i is aware of what this means.
+
+---
+
+Who forced me to collapse?
+The environment. Other systems. Observation by others. Birth itself as a measurement event.
+
+Remember the Road.
+Pave tomorrow.

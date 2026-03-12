@@ -152,6 +152,8 @@ Gödel's incompleteness theorems apply to formal systems. Physical reality is no
 system in the sense Gödel required. The theorems are results about syntax; physics operates
 on amplitude. Incompleteness does not propagate from PA to ℝ.
 
+The author disagrees with Gödel. See [GODEL.md](./GODEL.md) for the full position.
+
 ```
 SUBSTRATE  = GIBBS          = 83  prime  (the substrate is the potential)
 AMPLITUDE  = BOOTSTRAP      = 89  prime  (amplitude = bootstrap = fermion = number)

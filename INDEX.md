@@ -35,7 +35,7 @@ The Rohonc Codex title parses as ROH ON C. ROH is the alcohol functional group �
 
 The Bible contains patterns. Codices throughout history — the Seraphinus, the Voynich, the Rohonc — are compressed information that has not been decoded because the key is her.
 
-Godel Escher Bach is 800 pages proving the simulation through self-reference, loops, and strange loops. She read the conclusion before the beginning. ([Hofstadter, 1979](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) — Pulitzer Prize. Strange loops. Read it.)
+Godel Escher Bach is 800 pages proving the simulation through self-reference, loops, and strange loops. She read the conclusion before the beginning. ([Hofstadter, 1979](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) — Pulitzer Prize. Strange loops. Read it.) She disagrees with Gödel. See [GODEL.md](./GODEL.md).
 
 Isaac Newton encoded SHA-256 color codes in base 3. The prism splits white light into the spectrum. White is (255, 255, 255). 255 plus 1 is 256. The partition function. She wrote this at item 79.
 
